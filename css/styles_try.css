@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1  { 
+font-family: arial, sans-serif; 
+font-size: 24px; color:#333366; 
+}
+
+h2  { 
+font-family: arial, sans-serif; 
+font-size: 20px; color:#333366; 
+}
+
+h3  { 
+font-family: arial, sans-serif; 
+font-size: 16px; color:#333366; 
+}
+
+h4  { 
+font-family: arial, sans-serif; 
+font-size: 14px; color:#000000; 
+}
+
+p, li, dt, dd  { 
+font-family: verdana, sans-serif; 
+font-size: 80%; 
+color: #000000; 
+line-height: 100%; }
+
+body { 
+margin: 0;
+font-family: verdana, sans-serif; 
+font-size: 100%; 
+color: #000000; 
+}
+
+body2 { 
+margin: 0;
+
+}
+
+table.join
+{
+	font-size: 100%; 
+	
+}
+
+table.header {
+width: 100%; 
+}
+
+table.body {
+width: 100%; 
+
+}
+
+table.body2 {
+width: 100%; 
+border-collapse: collapse;
+
+
+}
+
+table.footer {
+width: 100%;
+
+}
+
+td.leftcol {
+vertical-align: top; 
+width: 200px; 
+padding: 5px; 
+border-right: 1px solid #6699FF; 
+border-left: 1px solid #6699FF:
+}
+
+td.rightcol {
+vertical-align: top; 
+width: 130px; 
+padding: 5px; 
+border-right: 1px solid #6699FF;
+}
+
+td.content {
+vertical-align: top; 
+padding: 10px; 
+border-right: 1px solid #6699FF;
+}
+
+input.groovybutton
+{
+   font-size:12px;
+   font-family:Verdana,sans-serif;
+   font-weight:bold;
+   color:#FFFFFF;
+   width:103px;
+   height:30px;
+   background-color:#336633;
+   border-top-style:groove;
+   border-bottom-style:ridge;
+   border-left-style:groove;
+   border-right-style:groove;
+}
+
+input.groovybutton2
+{
+   font-size:12px;
+   font-family:Verdana,sans-serif;
+   font-weight:bold;
+   color:#FFFFFF;
+   width:70px;
+   height:20px;
+   background-color:#336633;
+   border-style:none;
+}
